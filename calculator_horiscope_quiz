@@ -1,0 +1,17 @@
+def #horiscope_quiz
+
+How do people describe you?: [Independent, Original, Funny,  Mysterious, Sassy, Kind, Sensitive, Trendsetter, Confident, Efficent, Social, Loyal]
+
+What is your biggest flaw?: [Lazy, Moody, Possessive, I dont listen, I think too much, Arrogant, Too nice, Sensitive, Workaholic, I push people away, I get attached easily, I have a lot of pride]
+
+What do you eat the most?: [Donuts, Fruits, Pizza, Salad, French fries, Steak, Mac n' cheese, Desert, Burgers, Pasta, Seafood, Tacos]
+
+Whats your dream vacation destination?: [Cancun, Paris, London, Italy, New York, Carribean, Las Vegas, Florida, California, Canada,  Peru, Stay home]
+
+Describe your fashion style: Athletic, Comfy, Girly, Vintage, Punk, Rock, Goth, Country, New York, Beverly Hills, Trend Follower, Trend Setter
+
+Whats your dream job?: Chef, Writer, Actor, Entrepreneur, Teacher, Surgeon, Fashion designer, Lawyer, Coder, Director, News broadcaster
+
+what is your favorite color?: Rainbow, Yellow, Red, Orange, Teal, Green, Blue, Pink, Purple, Grey, Black, White
+end
+end
